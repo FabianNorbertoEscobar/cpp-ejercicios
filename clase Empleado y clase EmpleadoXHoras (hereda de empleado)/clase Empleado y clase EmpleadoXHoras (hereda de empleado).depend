@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1483899577 source:d:\unlam\programaci”n\fabian\programas en c++\clase empleado y clase empleadoxhoras (hereda de empleado)\empleado.cpp
+	"Empleado.hpp"
+	<iostream>
+	<cassert>
+	<cstring>
+
+1483898418 d:\unlam\programaci”n\fabian\programas en c++\clase empleado y clase empleadoxhoras (hereda de empleado)\empleado.hpp
+	<iostream>
+
+1483899868 source:d:\unlam\programaci”n\fabian\programas en c++\clase empleado y clase empleadoxhoras (hereda de empleado)\empleadoxhoras.cpp
+	"EmpleadoXHoras.hpp"
+	<iostream>
+	<iomanip>
+
+1483899828 d:\unlam\programaci”n\fabian\programas en c++\clase empleado y clase empleadoxhoras (hereda de empleado)\empleadoxhoras.hpp
+	"Empleado.hpp"
+	<iostream>
+
+1483899490 source:d:\unlam\programaci”n\fabian\programas en c++\clase empleado y clase empleadoxhoras (hereda de empleado)\main.cpp
+	"EmpleadoXHoras.hpp"
+	<iostream>
+	<clocale>
+

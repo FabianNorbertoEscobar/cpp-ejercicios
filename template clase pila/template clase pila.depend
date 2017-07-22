@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1484349547 source:d:\unlam\programaci”n\fabian\programas en c++\template clase pila\pila.cpp
+	"Pila.hpp"
+	<iostream>
+
+1484350966 d:\unlam\programaci”n\fabian\programas en c++\template clase pila\pila.hpp
+
+1484352130 source:d:\unlam\programaci”n\fabian\programas en c++\template clase pila\main.cpp
+	"Pila.hpp"
+	<iostream>
+	<clocale>
+

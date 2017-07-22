@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1479348647 source:d:\unlam\programaci”n\fabian\clase bulto y clase producto\bulto.cpp
+	"bulto y producto.hpp"
+
+1479342572 d:\unlam\programaci”n\fabian\clase bulto y clase producto\bulto.hpp
+	"producto.hpp"
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<clocale>
+	<string.h>
+
+1479343102 d:\unlam\programaci”n\fabian\clase bulto y clase producto\producto.hpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<clocale>
+	<string.h>
+
+1479348138 source:d:\unlam\programaci”n\fabian\clase bulto y clase producto\main.cpp
+	"bulto y producto.hpp"
+
+1479348451 d:\unlam\programaci”n\fabian\clase bulto y clase producto\bulto y producto.hpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<clocale>
+	<string.h>
+
+1479348599 source:d:\unlam\programaci”n\fabian\clase bulto y clase producto\producto.cpp
+	"bulto y producto.hpp"
+

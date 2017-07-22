@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1478836628 source:d:\unlam\programaci”n\fabian\clase fecha\fecha.cpp
+	"fecha.h"
+
+1478836628 d:\unlam\programaci”n\fabian\clase fecha\fecha.h
+	<iostream>
+	<iomanip>
+	<cstdio>
+	<cstdlib>
+	<clocale>
+	<ctime>
+
+1479318801 source:d:\unlam\programaci”n\fabian\clase fecha\main.cpp
+	"fecha.h"
+

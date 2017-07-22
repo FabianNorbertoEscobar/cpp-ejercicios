@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1483236394 source:d:\unlam\programaciÓn\fabian\programas en c++\área de círculo\main.cpp
+	<iostream>
+	<cmath>
+	<clocale>
+

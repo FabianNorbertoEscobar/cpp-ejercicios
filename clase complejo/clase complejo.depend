@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1479163228 source:d:\unlam\programaci”n\fabian\clase complejo\complejo.cpp
+	"complejo.hpp"
+
+1479163198 d:\unlam\programaci”n\fabian\clase complejo\complejo.hpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<clocale>
+	<cmath>
+
+1479163749 source:d:\unlam\programaci”n\fabian\clase complejo\main.cpp
+	"complejo.hpp"
+

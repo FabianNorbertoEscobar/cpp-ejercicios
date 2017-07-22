@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1484354073 source:d:\unlam\programaci”n\fabian\programas en c++\template clase cola\cola.cpp
+	"Cola.hpp"
+	<iostream>
+
+1484352697 d:\unlam\programaci”n\fabian\programas en c++\template clase cola\cola.hpp
+
+1484354392 source:d:\unlam\programaci”n\fabian\programas en c++\template clase cola\main.cpp
+	"Cola.hpp"
+	<iostream>
+	<clocale>
+

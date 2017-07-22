@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1483393129 source:d:\unlam\programaciÓn\fabian\programas en c++\clase rectángulo_versión 3\main.cpp
+	<iostream>
+	<iomanip>
+	<clocale>
+	"rectángulo.hpp"
+
+1483391020 d:\unlam\programaciÓn\fabian\programas en c++\clase rectángulo_versión 3\rectángulo.hpp
+
+1483392958 source:d:\unlam\programaciÓn\fabian\programas en c++\clase rectángulo_versión 3\rectángulo.cpp
+	"rectángulo.hpp"
+	<iostream>
+	<iomanip>
+	<cmath>
+

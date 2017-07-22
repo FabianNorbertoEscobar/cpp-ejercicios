@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1483729344 source:d:\unlam\programaciÓn\fabian\programas en c++\atributos y métodos estáticos\main.cpp
+	"prueba.hpp"
+	<iostream>
+	<clocale>
+
+1483627057 d:\unlam\programaciÓn\fabian\programas en c++\atributos y métodos estáticos\prueba.hpp
+
+1483729289 source:d:\unlam\programaciÓn\fabian\programas en c++\atributos y métodos estáticos\prueba.cpp
+	"prueba.hpp"
+	<iostream>
+

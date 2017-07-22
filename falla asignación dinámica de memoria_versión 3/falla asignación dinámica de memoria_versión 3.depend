@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1484427984 source:d:\unlam\programaciÓn\fabian\programas en c++\falla asignación dinámica de memoria_versión 3\main.cpp
+	<iostream>
+	<new>
+	<cstdlib>
+	<clocale>
+

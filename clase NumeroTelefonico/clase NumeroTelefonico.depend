@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1483821754 source:d:\unlam\programaci”n\fabian\programas en c++\clase numerotelefonico\main.cpp
+	"NumeroTelefonico.hpp"
+	<iostream>
+	<clocale>
+
+1483821854 d:\unlam\programaci”n\fabian\programas en c++\clase numerotelefonico\numerotelefonico.hpp
+	<iostream>
+
+1483822199 source:d:\unlam\programaci”n\fabian\programas en c++\clase numerotelefonico\numerotelefonico.cpp
+	"NumeroTelefonico.hpp"
+	<iostream>
+	<iomanip>
+

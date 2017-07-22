@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1478655376 source:d:\unlam\programaci”n\fabian\clase hora\hora.cpp
+	"hora.h"
+
+1478655395 d:\unlam\programaci”n\fabian\clase hora\hora.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<clocale>
+
+1478656713 source:d:\unlam\programaci”n\fabian\clase hora\main.cpp
+	"hora.h"
+

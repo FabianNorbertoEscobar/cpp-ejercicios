@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1484419752 source:d:\unlam\programaciÓn\fabian\programas en c++\excepción división entre cero\excepcióndivisiónentrecero.cpp
+	"ExcepciónDivisiónEntreCero.hpp"
+
+1484419620 d:\unlam\programaciÓn\fabian\programas en c++\excepción división entre cero\excepcióndivisiónentrecero.hpp
+
+1484420688 source:d:\unlam\programaciÓn\fabian\programas en c++\excepción división entre cero\main.cpp
+	"ExcepciónDivisiónEntreCero.hpp"
+	<iostream>
+	<clocale>
+

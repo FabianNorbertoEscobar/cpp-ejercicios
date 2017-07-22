@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1479150946 source:d:\unlam\programaci”n\fabian\clase moneda\main.cpp
+	"moneda.hpp"
+
+1479156539 d:\unlam\programaci”n\fabian\clase moneda\moneda.hpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<clocale>
+	<string>
+
+1479161570 source:d:\unlam\programaci”n\fabian\clase moneda\moneda.cpp
+	"moneda.hpp"
+

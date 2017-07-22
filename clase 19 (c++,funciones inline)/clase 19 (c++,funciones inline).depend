@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1477509536 source:d:\unlam\programaci”n\fabian\clase 19 (c++,funciones inline)\functions.cpp
+	"header.hpp"
+
+1477507872 d:\unlam\programaci”n\fabian\clase 19 (c++,funciones inline)\header.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<locale.h>
+
+1477510629 source:d:\unlam\programaci”n\fabian\clase 19 (c++,funciones inline)\main.cpp
+	"header.hpp"
+
+1477528836 d:\unlam\programaci”n\fabian\clase 19 (c++,funciones inline)\header.hpp
+	<iostream>
+	<cstdlib>
+	<clocale>
+

@@ -1,0 +1,103 @@
+# depslib dependency file v1.0
+1483914747 source:d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\asiento.cpp
+	"Asiento.hpp"
+	<iostream>
+
+1483914732 d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\asiento.hpp
+	<iostream>
+
+1483914954 source:d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\bicicleta.cpp
+	"Bicicleta.hpp"
+	<iostream>
+	<cassert>
+	<cstring>
+
+1483913669 d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\bicicleta.hpp
+	"Rueda.hpp"
+	"Pedal.hpp"
+	"Asiento.hpp"
+	"Manubrio.hpp"
+	"Engranaje.hpp"
+	"Guardabarros.hpp"
+	"Freno.hpp"
+	"Cambio.hpp"
+	<iostream>
+
+1483914832 d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\rueda.hpp
+	"Rayo.hpp"
+	"Cubierta.hpp"
+	"Gomin.hpp"
+	<iostream>
+
+1483914839 d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\rayo.hpp
+	<iostream>
+
+1483914854 d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\cubierta.hpp
+	<iostream>
+
+1483914860 d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\gomin.hpp
+	<iostream>
+
+1483914868 d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\pedal.hpp
+	<iostream>
+
+1483914879 d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\manubrio.hpp
+	<iostream>
+
+1483914892 d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\engranaje.hpp
+	<iostream>
+
+1483914899 d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\guardabarros.hpp
+	<iostream>
+
+1483914905 d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\freno.hpp
+	<iostream>
+
+1483910553 d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\cambio.hpp
+	<iostream>
+
+1483914966 source:d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\cambio.cpp
+	"Cambio.hpp"
+	<iostream>
+
+1483915046 source:d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\cubierta.cpp
+	"Cubierta.hpp"
+	<iostream>
+
+1483911702 source:d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\engranaje.cpp
+	"Engranaje.hpp"
+	<iostream>
+
+1483914980 source:d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\freno.cpp
+	"Freno.hpp"
+	<iostream>
+
+1483915065 source:d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\gomin.cpp
+	"Gomin.hpp"
+	<iostream>
+
+1483911510 source:d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\guardabarros.cpp
+	"Guardabarros.hpp"
+	<iostream>
+
+1483914704 source:d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\main.cpp
+	"Bicicleta.hpp"
+	<iostream>
+	<clocale>
+
+1483911992 source:d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\manubrio.cpp
+	"Manubrio.hpp"
+	<iostream>
+
+1483914995 source:d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\pedal.cpp
+	"Pedal.hpp"
+	<iostream>
+
+1483911383 source:d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\rayo.cpp
+	"Rayo.hpp"
+	<iostream>
+
+1483915023 source:d:\unlam\programaciÓn\fabian\programas en c++\clase bicicleta_herencia múltiple\rueda.cpp
+	"Rueda.hpp"
+	<iostream>
+

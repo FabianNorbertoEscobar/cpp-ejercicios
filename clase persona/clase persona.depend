@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1479329133 source:d:\unlam\programaci”n\fabian\clase persona\fecha.cpp
+	"fecha.h"
+
+1479329136 d:\unlam\programaci”n\fabian\clase persona\fecha.h
+	<iostream>
+
+1479325474 source:d:\unlam\programaci”n\fabian\clase persona\main.cpp
+	"persona.hpp"
+
+1479328048 d:\unlam\programaci”n\fabian\clase persona\persona.hpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<clocale>
+	<string.h>
+	"fecha.h"
+
+1479328900 source:d:\unlam\programaci”n\fabian\clase persona\persona.cpp
+	"persona.hpp"
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1478032562 source:d:\unlam\programaci”n\fabian\clase 21 (clases, tipos de constructores)\hora.cpp
+	<iostream>
+	"hora.h"
+
+1478120128 d:\unlam\programaci”n\fabian\clase 21 (clases, tipos de constructores)\hora.h
+
+1478031620 source:d:\unlam\programaci”n\fabian\clase 21 (clases, tipos de constructores)\main.cpp
+	<iostream>
+	"hora.h"
+

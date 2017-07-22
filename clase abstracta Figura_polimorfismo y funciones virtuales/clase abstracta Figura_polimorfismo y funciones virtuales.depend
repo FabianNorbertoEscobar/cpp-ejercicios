@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1483983751 source:d:\unlam\programaci”n\fabian\programas en c++\clase abstracta figura_polimorfismo y funciones virtuales\cilindro.cpp
+	"Cilindro.hpp"
+	<iostream>
+	<iomanip>
+
+1483984031 d:\unlam\programaci”n\fabian\programas en c++\clase abstracta figura_polimorfismo y funciones virtuales\cilindro.hpp
+	"Circulo.hpp"
+	<iostream>
+
+1483984008 d:\unlam\programaci”n\fabian\programas en c++\clase abstracta figura_polimorfismo y funciones virtuales\circulo.hpp
+	"Punto.hpp"
+	<iostream>
+
+1483983984 d:\unlam\programaci”n\fabian\programas en c++\clase abstracta figura_polimorfismo y funciones virtuales\punto.hpp
+	"Figura.hpp"
+	<iostream>
+
+1483984839 d:\unlam\programaci”n\fabian\programas en c++\clase abstracta figura_polimorfismo y funciones virtuales\figura.hpp
+
+1483984440 source:d:\unlam\programaci”n\fabian\programas en c++\clase abstracta figura_polimorfismo y funciones virtuales\circulo.cpp
+	"Circulo.hpp"
+	<iostream>
+	<iomanip>
+
+1483983769 source:d:\unlam\programaci”n\fabian\programas en c++\clase abstracta figura_polimorfismo y funciones virtuales\figura.cpp
+	"Figura.hpp"
+	<iostream>
+
+1483983313 source:d:\unlam\programaci”n\fabian\programas en c++\clase abstracta figura_polimorfismo y funciones virtuales\punto.cpp
+	"Punto.hpp"
+	<iostream>
+
+1483984296 source:d:\unlam\programaci”n\fabian\programas en c++\clase abstracta figura_polimorfismo y funciones virtuales\main.cpp
+	"Cilindro.hpp"
+	<iostream>
+	<iomanip>
+	<clocale>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1477515905 source:d:\unlam\programaci”n\fabian\clase 19 (c++,referencias,pasaje por referencia)\functions.cpp
+	"header.hpp"
+
+1477528871 d:\unlam\programaci”n\fabian\clase 19 (c++,referencias,pasaje por referencia)\header.hpp
+	<iostream>
+	<cstdlib>
+	<clocale>
+
+1477516590 source:d:\unlam\programaci”n\fabian\clase 19 (c++,referencias,pasaje por referencia)\main.cpp
+	"header.hpp"
+

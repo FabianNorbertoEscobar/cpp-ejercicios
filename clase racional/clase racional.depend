@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1479177591 source:d:\unlam\programaci”n\fabian\clase racional\main.cpp
+	"racional.hpp"
+
+1479177002 d:\unlam\programaci”n\fabian\clase racional\racional.hpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<clocale>
+
+1479177545 source:d:\unlam\programaci”n\fabian\clase racional\racional.cpp
+	"racional.hpp"
+

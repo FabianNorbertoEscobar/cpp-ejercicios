@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1483306742 source:d:\unlam\programaci”n\fabian\programas en c++\clase creaydestruye\creaydestruye.cpp
+	<iostream>
+	"CreaYDestruye.hpp"
+
+1483306556 d:\unlam\programaci”n\fabian\programas en c++\clase creaydestruye\creaydestruye.hpp
+
+1483307003 source:d:\unlam\programaci”n\fabian\programas en c++\clase creaydestruye\main.cpp
+	<iostream>
+	"CreaYDestruye.hpp"
+

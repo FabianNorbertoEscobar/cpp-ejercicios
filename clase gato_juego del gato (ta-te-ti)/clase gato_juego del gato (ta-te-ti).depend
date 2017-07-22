@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1483470406 source:d:\unlam\programaci”n\fabian\programas en c++\clase gato_juego del gato (ta-te-ti)\main.cpp
+	"gato.hpp"
+	<iostream>
+	<cstdlib>
+	<clocale>
+
+1483462089 d:\unlam\programaci”n\fabian\programas en c++\clase gato_juego del gato (ta-te-ti)\gato.hpp
+
+1483470555 source:d:\unlam\programaci”n\fabian\programas en c++\clase gato_juego del gato (ta-te-ti)\gato.cpp
+	"gato.hpp"
+	<iostream>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1477529606 source:d:\unlam\programaciÓn\fabian\clase 19 (c++, métodos de iostream y iomanip)\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<clocale>
+

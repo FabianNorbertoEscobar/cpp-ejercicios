@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1477520491 source:d:\unlam\programaci”n\fabian\clase 19 (c++, sobrecarga de funciones y par·metros por defecto)\functions.cpp
+	"header.hpp"
+
+1477528913 d:\unlam\programaci”n\fabian\clase 19 (c++, sobrecarga de funciones y par·metros por defecto)\header.hpp
+	<iostream>
+	<cstdlib>
+	<clocale>
+
+1477520639 source:d:\unlam\programaci”n\fabian\clase 19 (c++, sobrecarga de funciones y par·metros por defecto)\main.cpp
+	"header.hpp"
+

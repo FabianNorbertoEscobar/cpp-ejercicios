@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1483733301 source:d:\unlam\programaci”n\fabian\programas en c++\clase cuentaahorros\cuentaahorros.cpp
+	"CuentaAhorros.hpp"
+	<iostream>
+
+1483732671 d:\unlam\programaci”n\fabian\programas en c++\clase cuentaahorros\cuentaahorros.hpp
+
+1483733301 source:d:\unlam\programaci”n\fabian\programas en c++\clase cuentaahorros\main.cpp
+	"CuentaAhorros.hpp"
+	<iostream>
+	<clocale>
+

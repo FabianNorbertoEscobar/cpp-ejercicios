@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1479318091 source:d:\unlam\programaci”n\fabian\clase 25 (try catch y memoria din·mica en c++)\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<clocale>
+

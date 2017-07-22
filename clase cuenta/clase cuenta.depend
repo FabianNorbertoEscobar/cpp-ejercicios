@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1483297814 source:d:\unlam\programaci”n\fabian\programas en c++\clase cuenta\cuenta.cpp
+	"cuenta.hpp"
+	<iostream>
+
+1483298062 d:\unlam\programaci”n\fabian\programas en c++\clase cuenta\cuenta.hpp
+	<iostream>
+

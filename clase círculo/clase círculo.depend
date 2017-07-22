@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1480379872 source:d:\unlam\programaciÓn\fabian\clase círculo\círculo.cpp
+	"círculo.hpp"
+
+1480379933 d:\unlam\programaciÓn\fabian\clase círculo\círculo.hpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<clocale>
+	<string.h>
+
+1480379910 source:d:\unlam\programaciÓn\fabian\clase círculo\main.cpp
+	"círculo.hpp"
+

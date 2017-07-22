@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1483899725 source:d:\unlam\programaciÓn\fabian\programas en c++\clase punto y clase círculo (hereda de punto)\circulo.cpp
+	"Circulo.hpp"
+	<iostream>
+	<iomanip>
+
+1483892107 d:\unlam\programaciÓn\fabian\programas en c++\clase punto y clase círculo (hereda de punto)\circulo.hpp
+	"Punto.hpp"
+	<iostream>
+
+1483890556 d:\unlam\programaciÓn\fabian\programas en c++\clase punto y clase círculo (hereda de punto)\punto.hpp
+	<iostream>
+
+1483891666 source:d:\unlam\programaciÓn\fabian\programas en c++\clase punto y clase círculo (hereda de punto)\punto.cpp
+	"Punto.hpp"
+	<iostream>
+
+1483893676 source:d:\unlam\programaciÓn\fabian\programas en c++\clase punto y clase círculo (hereda de punto)\main.cpp
+	"Circulo.hpp"
+	<iostream>
+	<clocale>
+

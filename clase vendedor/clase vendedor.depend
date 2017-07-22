@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1483303015 source:d:\unlam\programaci”n\fabian\programas en c++\clase vendedor\vendedor.cpp
+	"vendedor.hpp"
+	<iostream>
+	<iomanip>
+
+1483302961 d:\unlam\programaci”n\fabian\programas en c++\clase vendedor\vendedor.hpp
+
+1483303072 source:d:\unlam\programaci”n\fabian\programas en c++\clase vendedor\main.cpp
+	<iostream>
+	<clocale>
+	"vendedor.hpp"
+
